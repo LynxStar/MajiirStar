@@ -1,0 +1,11 @@
+{
+  "name": "MajiirStar",
+  "version": "0.1.0",
+  "title": "MajiirStar Mods",
+  "author": "LynxStar & Majiir",
+  "contact": "LynxStar@kervana.com",
+  "homepage": "https://github.com/LynxStar/MajiirStar",
+  "description": "Fucking Majiir and his Grace Hopper Requests",
+  "dependencies": ["base >= 0.14.00"],
+  "factorio_version": "0.14"
+}
