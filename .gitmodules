@@ -1,0 +1,6 @@
+[submodule "Afforess"]
+	path = Afforess
+	url = https://github.com/Afforess/Factorio-Stdlib
+[submodule "stdlib"]
+	path = stdlib
+	url = https://github.com/Afforess/Factorio-Stdlib
