@@ -10,13 +10,13 @@ data:extend(
     max_health = 500,
     corpse = "medium-remnants",
     collision_box = {{-0.25, -0.5}, {0.25, 0.5}},
-	collision_mask = { "ghost-layer"},
+	  collision_mask = { "ghost-layer"},
     fluid_box =
     {
       base_area = 10,
       pipe_covers = pipecoverspictures(),
       pipe_connections =
-      {        
+      {
         { position = {0, 1} }
       },
     },
